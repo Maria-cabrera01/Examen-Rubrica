@@ -37,3 +37,8 @@ li {
     text-align: center;  
     margin-top: 20px;  
 }
+.libros img {
+    border: 3px solid #f50707;
+    border-radius: 10px;
+    padding: 5px;
+}
