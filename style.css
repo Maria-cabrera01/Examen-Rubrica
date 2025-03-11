@@ -1,3 +1,4 @@
+```css
 body {
     font-family: Arial, sans-serif;
     margin: 20px;
@@ -25,20 +26,27 @@ ul {
 li {
     margin-bottom: 10px;
 }
+
 @media (max-width: 600px) {
     body {
         font-size: 14px;
     }
 }
+
 .bienvenida {
-    color: rgb(120, 8, 239);  
-    font-size: 24px;  
-    font-weight: bold; 
-    text-align: center;  
-    margin-top: 20px;  
+    color: #7808ef;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
 }
+
 .libros img {
     border: 3px solid #f50707;
     border-radius: 10px;
     padding: 5px;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 10px auto;
 }
