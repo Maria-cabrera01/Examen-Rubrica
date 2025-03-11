@@ -30,3 +30,10 @@ li {
         font-size: 14px;
     }
 }
+.bienvenida {
+    color: rgb(120, 8, 239);  
+    font-size: 24px;  
+    font-weight: bold; 
+    text-align: center;  
+    margin-top: 20px;  
+}
